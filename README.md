@@ -16,3 +16,8 @@
 <li><a href="project5/Project 5 Chapter Work Gabrielle Darnell.ai">Project 5 - Chapter Work </a></li>
 <li><a href="project5/Project 5 Portfolio Builder Gabrielle Darnell.ai">Project 5 - Portfolio Builder </a></li>
 </ul>
+<h5>Project 7</h5>
+<ul>
+<li><a href="project7/Project 7 Chapter Work.ai">Project 7 - Chapter Work </a></li>
+<li><a href="project7/Project 7 Portfolio Builder.ai">Project 7 - Portfolio Builder </a></li>
+</ul>
