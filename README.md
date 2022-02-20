@@ -21,3 +21,8 @@
 <li><a href="project7/Project 7 Chapter Work.ai">Project 7 - Chapter Work </a></li>
 <li><a href="project7/Project 7 Portfolio Builder.ai">Project 7 - Portfolio Builder </a></li>
 </ul>
+<h6>Project 8</h6>
+<ul>
+<li><a href="project8/Project 8 Chapter Work.ai">Project 8 - Chapter Work </a></li>
+<li><a href="project8/Project 8 Portfolio Builder.ai">Project 8 - Portfolio Builder </a></li>
+</ul>
