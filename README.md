@@ -28,6 +28,6 @@
 </ul>
 <h6>Final Project</h6>
 <ul>
-<li><a href="webt1340/finalwebsite">Final Responsive Website </a></li>
-<li><a href="webt1340/finalxd.xd">Final XD Layout </a></li>
+<li><a href="finalwebsite/index.html" target="_blank">Final Responsive Website</a></li>
+<li><a href="xdfile/finalxd.xd">Final XD Layout </a></li>
 </ul>
