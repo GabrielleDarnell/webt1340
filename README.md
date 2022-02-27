@@ -26,3 +26,8 @@
 <li><a href="project8/Project 8 Chapter Work.ai">Project 8 - Chapter Work </a></li>
 <li><a href="project8/Project 8 Portfolio Builder.ai">Project 8 - Portfolio Builder </a></li>
 </ul>
+<h6>Final Project</h6>
+<ul>
+<li><a href="webt1340/finalwebsite">Final Responsive Website </a></li>
+<li><a href="webt1340/finalxd.xd">Final XD Layout </a></li>
+</ul>
